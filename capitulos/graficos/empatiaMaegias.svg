@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65.409454mm"
+   height="64.444443mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="empatiaMaegias.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4075"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4078"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="125.09645"
+     inkscape:cy="89.957709"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="3"
+     fit-margin-right="3"
+     fit-margin-bottom="3"
+     units="mm" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-152.62879,-706.08592)">
+    <ellipse
+       transform="matrix(1.799142,0,0,10.08408,111.78692,-884.70929)"
+       id="path3017"
+       style="fill:#bfdaba;fill-opacity:1;stroke:none"
+       cx="87.168327"
+       cy="169.42664"
+       rx="55.58205"
+       ry="9.9166212" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:2.01419902;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3819"
+       transform="matrix(0.75931514,0,0,0.75931514,97.648276,641.42707)"
+       cx="175.04305"
+       cy="238.80991"
+       rx="10.56145"
+       ry="10.301743" />
+    <ellipse
+       transform="matrix(0.56524729,0,0,0.47471911,133.2235,709.5381)"
+       id="path3817"
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:2.38338161;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="175.04305"
+       cy="238.80991"
+       rx="10.56145"
+       ry="10.301743" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:2.38338161;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3815"
+       transform="matrix(0.64169826,0,0,0.64169826,195.30135,670.99817)"
+       cx="175.04305"
+       cy="238.80991"
+       rx="10.56145"
+       ry="10.301743" />
+    <path
+       style="fill:none;stroke:#399d2d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 163.75872,762.32331 373.26463,883.28163"
+       id="path3804"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3806"
+       d="M 163.75871,883.28163 373.26464,762.32333"
+       style="fill:none;stroke:#399d2d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:0.93909413;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3022"
+       transform="matrix(0.68790723,0,0,3.8556776,208.61785,170.54799)"
+       cx="87.168327"
+       cy="169.42664"
+       rx="55.58205"
+       ry="9.9166212" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:1.52941179;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 288.22583,856.30669 c 0,0 -1.69619,-0.0421 -2.52707,-0.12465 -0.83087,-0.0825 -1.64959,-0.20517 -2.45406,-0.36606 -1.60895,-0.32171 -3.16095,-0.79629 -4.63944,-1.40744 -2.95697,-1.22223 -5.61989,-2.99092 -7.85624,-5.17645 -1.11818,-1.09276 -2.12971,-2.28968 -3.01804,-3.57469 -0.88833,-1.28501 -1.65345,-2.65812 -2.27879,-4.10296 -0.62535,-1.44491 -1.11092,-2.96162 -1.44016,-4.53404 -0.16462,-0.7862 -0.29016,-1.5863 -0.37453,-2.3983 -0.0844,-0.81198 -0.12761,-1.63587 -0.12761,-2.46962"
+       id="path3808"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscssssc" />
+    <ellipse
+       style="fill:#399d2d;fill-opacity:1;stroke:#399d2d;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3811"
+       transform="matrix(0.73296071,0,0,0.79811282,181.03772,633.67842)"
+       cx="144.95407"
+       cy="225.22647"
+       rx="11.997888"
+       ry="11.018468" />
+    <ellipse
+       transform="matrix(0.42786345,0,0,0.46589579,227.67756,711.22083)"
+       id="path3813"
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:3.42552733;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="144.95407"
+       cy="225.22647"
+       rx="11.997888"
+       ry="11.018468" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81557178px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="215.24411"
+       y="755.1748"
+       id="text3821"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3823"
+         x="215.24411"
+         y="755.1748"
+         style="font-style:italic;font-weight:bold;-inkscape-font-specification:'Arial Bold Italic';text-align:start;text-anchor:start">¿Qué PIENSA y SIENTE?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81557178px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="215.91991"
+       y="766.08356"
+       id="text3829"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="215.91991"
+         y="766.08356"
+         id="tspan3833"
+         style="font-size:5.87704802px">Lo que cuenta realmente, las mayores</tspan><tspan
+         sodipodi:role="line"
+         x="215.91991"
+         y="773.42987"
+         id="tspan3835"
+         style="font-size:5.87704802px">precupaciones y aspiraciones</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3839"
+       y="880.6748"
+       x="215.24411"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81557178px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-weight:bold;-inkscape-font-specification:'Arial Bold Italic';text-align:start;text-anchor:start"
+         y="880.6748"
+         x="215.24411"
+         id="tspan3841"
+         sodipodi:role="line">¿Qué DICE y HACE?</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3843"
+       y="891.58356"
+       x="215.91991"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81557178px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:5.87704802px"
+         y="891.58356"
+         x="215.91991"
+         sodipodi:role="line"
+         id="tspan3856">La actitud en ṕublico, la apariencia </tspan><tspan
+         style="font-size:5.87704802px"
+         y="898.92987"
+         x="215.91991"
+         sodipodi:role="line"
+         id="tspan3858">y el comportamiento con los demás</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3876"
+       y="804.1748"
+       x="174.74411"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81557178px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-weight:bold;-inkscape-font-specification:'Arial Bold Italic';text-align:start;text-anchor:start"
+         y="804.1748"
+         x="174.74411"
+         id="tspan3878"
+         sodipodi:role="line">¿Qué</tspan><tspan
+         style="font-style:italic;font-weight:bold;-inkscape-font-specification:'Arial Bold Italic';text-align:start;text-anchor:start"
+         y="815.19427"
+         x="174.74411"
+         sodipodi:role="line"
+         id="tspan3886">ESCUCHA?</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3880"
+       y="825.08356"
+       x="175.41991"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81557178px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:5.87704802px"
+         id="tspan3884"
+         y="825.08356"
+         x="175.41991"
+         sodipodi:role="line">que dicen sus</tspan><tspan
+         style="font-size:5.87704802px"
+         y="832.42987"
+         x="175.41991"
+         sodipodi:role="line"
+         id="tspan3890">amigos, el jefe,</tspan><tspan
+         style="font-size:5.87704802px"
+         y="839.77618"
+         x="175.41991"
+         sodipodi:role="line"
+         id="tspan3892">o sus influencias</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81557178px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="316.24411"
+       y="812.1748"
+       id="text3894"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3898"
+         sodipodi:role="line"
+         x="316.24411"
+         y="812.1748"
+         style="font-style:italic;font-weight:bold;-inkscape-font-specification:'Arial Bold Italic';text-align:start;text-anchor:start">¿Qué VE?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81557178px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="316.91992"
+       y="825.08356"
+       id="text3900"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="316.91992"
+         y="825.08356"
+         style="font-size:5.87704802px"
+         id="tspan3917">el entorno, amigos, </tspan><tspan
+         sodipodi:role="line"
+         x="316.91992"
+         y="832.42987"
+         style="font-size:5.87704802px"
+         id="tspan3921">lo que ofrecen los </tspan><tspan
+         sodipodi:role="line"
+         x="316.91992"
+         y="839.77618"
+         style="font-size:5.87704802px"
+         id="tspan3929">mercados</tspan></text>
+  </g>
+</svg>

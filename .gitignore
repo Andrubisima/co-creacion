@@ -1,0 +1,9 @@
+*.odt
+*.lof
+*.log
+*.lot
+*.out
+*.aux
+*.toc
+capitulos/graficos/*.pdf
+**/*.odt

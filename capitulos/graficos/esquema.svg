@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="662.48279"
+   height="428.06479"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="esquema.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3899"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4075"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4078"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4439306"
+     inkscape:cx="90.708276"
+     inkscape:cy="237.82559"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3050"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="3"
+     fit-margin-right="3"
+     fit-margin-bottom="3"
+     units="mm" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(21.476226,-394.09287)">
+    <path
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)"
+       d="m 321.57208,727.50557 0,14.14497"
+       id="path3119"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4399"
+       d="m 393.20432,453.589 0,35.78728"
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4397"
+       d="m 393.21766,453.61064 -141.438,36.97763"
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)" />
+    <path
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)"
+       d="m 393.31326,453.56217 107.95987,36.86962"
+       id="path4401"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4354"
+       d="m 392.76234,532.283 71.35407,42.62371"
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)" />
+    <path
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)"
+       d="m 392.84975,532.36702 -66.83147,42.53969"
+       id="path4338"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4336"
+       d="m 188.03518,644.21451 0,14.14497"
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)" />
+    <path
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)"
+       d="m 188.03518,532.7133 0,14.14497"
+       id="path4334"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3074"
+       d="m 188.03518,560.76174 0,14.14497"
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)" />
+    <g
+       id="g3050"
+       transform="translate(-206.38112,28.803373)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3059"
+         width="124.61622"
+         height="39.61274"
+         x="537.0152"
+         y="-503.13232"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:11px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="600.47919"
+         y="478.87091"
+         id="text3061"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3069"
+           sodipodi:role="line"
+           x="600.47919"
+           y="478.87091">A través de</tspan><tspan
+           sodipodi:role="line"
+           x="600.47919"
+           y="492.62091"
+           id="tspan3054">interacción</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3047"
+       width="124.61622"
+       height="39.61274"
+       x="330.12784"
+       y="-452.92215"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="393.59183"
+       y="428.66074"
+       id="text3049"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="393.59183"
+         y="428.66074"
+         id="tspan3057">Co-creación</tspan><tspan
+         sodipodi:role="line"
+         x="393.59183"
+         y="442.41074"
+         id="tspan3046">de valor</tspan></text>
+    <g
+       transform="translate(-315.97883,114.33267)"
+       id="g3080">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3082"
+         width="124.61622"
+         height="39.61274"
+         x="441.15256"
+         y="-417.60303"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:11px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="504.61655"
+         y="389.87885"
+         id="text3084"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           x="504.61655"
+           y="389.87885"
+           id="tspan3088"
+           style="line-height:100%">A través de la</tspan><tspan
+           sodipodi:role="line"
+           x="504.61655"
+           y="400.87885"
+           id="tspan3058"
+           style="line-height:100%">integración de</tspan><tspan
+           sodipodi:role="line"
+           x="504.61655"
+           y="411.87885"
+           id="tspan3060"
+           style="line-height:100%">recursos</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3062"
+       y="556.78326"
+       x="188.04468"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3066"
+         y="556.78326"
+         x="188.04468"
+         sodipodi:role="line">Lógicas dominantes</tspan></text>
+    <rect
+       transform="scale(1,-1)"
+       y="-643.22131"
+       x="125.17326"
+       height="66.469139"
+       width="124.61622"
+       id="rect3070"
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:1.94304943;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3072"
+       y="592.10352"
+       x="188.3044"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3076"
+         y="592.10352"
+         x="188.3044"
+         sodipodi:role="line">Lógica dominante</tspan><tspan
+         y="605.85352"
+         x="188.3044"
+         sodipodi:role="line"
+         id="tspan3080">del producto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="188.3044"
+       y="619.80566"
+       id="text3862"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3866"
+         sodipodi:role="line"
+         x="188.3044"
+         y="619.80566"
+         style="font-size:8px">(Vargo y Lusch,</tspan><tspan
+         sodipodi:role="line"
+         x="188.3044"
+         y="629.80566"
+         id="tspan3870"
+         style="font-size:8px">2004, 2008, 2011)</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:1.94304943;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3872"
+       width="124.61622"
+       height="66.469139"
+       x="125.17326"
+       y="-727.02032"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="188.3044"
+       y="675.90253"
+       id="text3874"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="188.3044"
+         y="675.90253"
+         id="tspan3876">Marketing</tspan><tspan
+         id="tspan3878"
+         sodipodi:role="line"
+         x="188.3044"
+         y="689.65253">de servicios</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3880"
+       y="703.60468"
+       x="188.3044"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:8px"
+         y="703.60468"
+         x="188.3044"
+         sodipodi:role="line"
+         id="tspan3882">(Vargo y Lusch,</tspan><tspan
+         style="font-size:8px"
+         id="tspan3884"
+         y="713.60468"
+         x="188.3044"
+         sodipodi:role="line">2004, 2008, 2011)</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:1.94304943;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4340"
+       width="124.61622"
+       height="66.469139"
+       x="263.15634"
+       y="-643.22131"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="326.28748"
+       y="592.10352"
+       id="text4342"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="326.28748"
+         y="592.10352"
+         id="tspan4344">Lógica del</tspan><tspan
+         id="tspan4346"
+         sodipodi:role="line"
+         x="326.28748"
+         y="605.85352">servicio</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4348"
+       y="619.80566"
+       x="326.28748"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:8px"
+         y="619.80566"
+         x="326.28748"
+         sodipodi:role="line"
+         id="tspan4350">(Grönroos,</tspan><tspan
+         style="font-size:8px"
+         id="tspan4352"
+         y="629.80566"
+         x="326.28748"
+         sodipodi:role="line">2006, 2008)</tspan></text>
+    <rect
+       transform="scale(1,-1)"
+       y="-643.22131"
+       x="401.25449"
+       height="66.469139"
+       width="124.61622"
+       id="rect4356"
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:1.94304943;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4358"
+       y="598.95947"
+       x="464.38562"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="598.95947"
+         x="464.38562"
+         sodipodi:role="line"
+         id="tspan4362">Servucción</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="464.38562"
+       y="619.80566"
+       id="text4364"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="464.38562"
+         y="619.80566"
+         id="tspan4368"
+         style="font-size:8px">(Eiglier y Langeard, 1987)</tspan></text>
+    <g
+       id="g4388"
+       transform="translate(20,0)">
+      <rect
+         transform="scale(1,-1)"
+         y="-553.10889"
+         x="484.26044"
+         height="60.785965"
+         width="124.61622"
+         id="rect3102"
+         style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3104"
+         y="507.67429"
+         x="547.72443"
+         style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="507.67429"
+           x="547.72443"
+           sodipodi:role="line"
+           id="tspan3108">A través de</tspan><tspan
+           y="521.42432"
+           x="547.72443"
+           sodipodi:role="line"
+           id="tspan3050">experiencias</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="543.33679"
+         y="533.23639"
+         id="text4378"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="543.33679"
+           y="533.23639"
+           id="tspan4380"
+           style="font-size:8px">(Prahalad y Ramaswamy,</tspan><tspan
+           id="tspan4382"
+           sodipodi:role="line"
+           x="543.33679"
+           y="543.23639"
+           style="font-size:8px">2004)</tspan></text>
+    </g>
+    <rect
+       transform="scale(1,-1)"
+       y="-727.02032"
+       x="-9.8747797"
+       height="66.469139"
+       width="124.61622"
+       id="rect3048"
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:1.94304943;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3050"
+       y="675.90253"
+       x="53.256355"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="675.90253"
+         x="53.256355"
+         sodipodi:role="line"
+         id="tspan3055">Business to</tspan><tspan
+         y="689.65253"
+         x="53.256355"
+         sodipodi:role="line"
+         id="tspan3081">business (B2B)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="53.256355"
+       y="703.60468"
+       id="text3057"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3059"
+         sodipodi:role="line"
+         x="53.256355"
+         y="703.60468"
+         style="font-size:8px">(Vargo y Lusch,</tspan><tspan
+         sodipodi:role="line"
+         x="53.256355"
+         y="713.60468"
+         id="tspan3061"
+         style="font-size:8px">2004, 2008, 2011)</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:1.94304943;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3063"
+       width="124.61622"
+       height="66.469139"
+       x="259.52875"
+       y="-727.02032"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="322.65988"
+       y="675.90253"
+       id="text3065"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3070"
+         sodipodi:role="line"
+         x="322.65988"
+         y="675.90253">La teoría de</tspan><tspan
+         sodipodi:role="line"
+         x="322.65988"
+         y="689.65253"
+         id="tspan3085">la intersección</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3073"
+       y="703.60468"
+       x="322.65988"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:8px"
+         y="703.60468"
+         x="322.65988"
+         sodipodi:role="line"
+         id="tspan3075">(Vargo y Lusch,</tspan><tspan
+         style="font-size:8px"
+         id="tspan3077"
+         y="713.60468"
+         x="322.65988"
+         sodipodi:role="line">2004, 2008, 2011)</tspan></text>
+    <rect
+       transform="scale(1,-1)"
+       y="-810.55621"
+       x="259.52875"
+       height="66.469139"
+       width="124.61622"
+       id="rect3104"
+       style="fill:#ffffff;fill-opacity:1;stroke:#399d2d;stroke-width:1.94304943;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3106"
+       y="759.43842"
+       x="322.65988"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3111"
+         y="759.43842"
+         x="322.65988"
+         sodipodi:role="line">Lógica dominante</tspan><tspan
+         y="773.18842"
+         x="322.65988"
+         sodipodi:role="line"
+         id="tspan3127">del servicio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="322.65988"
+       y="787.14056"
+       id="text3113"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3115"
+         sodipodi:role="line"
+         x="322.65988"
+         y="787.14056"
+         style="font-size:8px">(Vargo y Lusch,</tspan><tspan
+         sodipodi:role="line"
+         x="322.65988"
+         y="797.14056"
+         id="tspan3117"
+         style="font-size:8px">2004, 2008, 2011)</tspan></text>
+    <path
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)"
+       d="m 188.03518,644.21451 -72.3719,15.1838"
+       id="path3121"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3123"
+       d="m 188.03518,644.21451 71.15993,15.01066"
+       style="fill:#000038;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Mend)" />
+  </g>
+</svg>

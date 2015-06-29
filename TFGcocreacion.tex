@@ -1,0 +1,161 @@
+% Compilar con xelatex
+% Generar rtf con latex2rtf TFGandrea.tex
+% apt-get install texlive texlive-lang-spanish texlive-latex-extra texlive-xetex
+\documentclass[a4paper,11pt]{scrbook} % tipo del documento: scrbook, amsbook, book, article
+
+%% Paquetes necesarios para la correcta compilación
+%\usepackage[latin1]{inputenc} % usar caracteres raros como ñ á é ¿ etc
+\usepackage[spanish]{babel} % español
+
+\usepackage{array} %Use the package array and specify the font just after the \begin{tabular}
+\usepackage[
+	pdfauthor={Andrea Ubis Moreno},
+	pdftitle={La creación de valor a través de la participación del cliente la elaboración del producto - Trabajo Fin de Grado},
+	pdfsubject={Cocreación de valor},
+	pdfkeywords={Co-creación de valor; Lógica dominante del producto; Lógica dominante del servicio; Experiencias; Interacción; Análisis factorial; ANOVA},
+	pdfproducer={XeLateX},
+	pdfcreator={Xelatex}
+]{hyperref} % Usar enlaces en bibliografía, web, etc. y metadata
+\usepackage{lmodern,textcomp} % permite usar €
+\usepackage{graphicx} % Usa gráficos desde pdf
+\usepackage{pdfpages} % Añade páginas en pdf
+
+\usepackage{caption}
+\captionsetup[figure]{labelfont=bf, font=bf}
+\captionsetup[table]{labelfont=bf, font=bf}
+\captionsetup{tablename=Cuadro,labelsep=space}
+
+\usepackage{pbox} % force break line in tables
+
+\usepackage{amsmath} % Use gather in math formulas
+
+\usepackage{pdflscape} % Rotar paginas
+
+\usepackage[titletoc]{appendix} % apendices
+\addto\captionsspanish{%
+  \renewcommand\appendixname{Anexo}
+  \renewcommand\appendixpagename{Anexos}
+}
+ 
+\usepackage{titlesec}
+\setcounter{secnumdepth}{4}
+\titleformat{\paragraph}
+	{\normalfont\normalsize\slshape}
+	{\theparagraph}{12pt}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+\usepackage{tocbibind} % Add bibliography to table of contents
+
+\usepackage[top=2.5cm, bottom=2.5cm, left=3cm, right=2.5cm]{geometry} % Cambia los margenes
+
+\usepackage{chngcntr} % No reiniciar el contador de figuras o tablas en capítulos
+\counterwithout{figure}{chapter}
+\counterwithout{table}{chapter}
+
+%% Putas fuentes del señor decano
+\usepackage{fontspec} % Cambiar fuente por defecto
+\setmainfont{Liberation Sans}
+\usepackage{setspace} % Interlineado (line spacing)
+\setstretch{1.15}
+\makeatletter
+\renewcommand\huge{\@setfontsize\huge{24pt}{24}}
+\renewcommand\Large{\@setfontsize\Large{18pt}{18}}
+\renewcommand\large{\@setfontsize\large{14pt}{14}}
+\makeatother
+\setkomafont{chapter}{\huge\mdseries}
+\setkomafont{section}{\Large\mdseries}
+\setkomafont{subsection}{\large\mdseries}
+
+\usepackage{booktabs} % tablas
+
+%% Información sin relevancia
+\title{La creación de valor a través de la participación del cliente la elaboración del producto - Trabajo Fin de Grado}
+\author{Andrea Ubis Moreno}
+
+
+            
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Empieza el documento                                   %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\pagenumbering{roman}
+%% Añadimos la portada externa
+\includepdf{portada/portada}
+
+%\cleardoublepage %Dos páginas en blanco
+
+\section*{Copyright}
+El poseedor de esta obra tiene permiso para copiar, distribuir y/o modificar todos los contenidos de este documento bajo los términos de la licencia \emph{Creative Commons Attribution-NonCommercial-ShareAlike 4.0}. Es posible encontrar una copia de esta licencia en \url{http://creativecommons.org/licenses/by-nc-sa/4.0}
+
+Obra realizada por \emph{Dña. Andrea Ubis Moreno}.
+
+%Copias de esta obra y el texto fuente de la misma se pueden encontrar en \url{https://github.com/Andrubisima/}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Comenzamos                                             %%
+\frontmatter                                              %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\input{./capitulos/resumen}
+
+
+\tableofcontents
+
+\listoffigures
+\listoftables
+
+\chapter{Introducción}
+
+\input{./capitulos/intro.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Capitulos                                              %%
+\mainmatter                                               %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\part{Marco teórico}
+
+\chapter{La co-creación de valor}
+\label{section:cocreacion}
+\input{./capitulos/cap1.tex}
+
+\part{Parte empírica}
+\chapter{Estudio estadístico}
+\label{section:parteEmpirica}
+\input{./capitulos/cap2.tex}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Finalizamos                                            %%
+\backmatter                                               %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Conclusiones}
+\input{./capitulos/conclusiones.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bibliografia                                           %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{./capitulos/bibliografia.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Anexos                                                 %%
+\mainmatter                                               %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part*{Anexos}
+\begin{appendices}
+\renewcommand{\thechapter}{\arabic{chapter}}
+\input{./capitulos/anexos.tex}
+\end{appendices}
+
+\end{document}

@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="234.07426"
+   height="144.83186"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="servuccion.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.6916891"
+     inkscape:cx="178.01129"
+     inkscape:cy="59.580024"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="3"
+     fit-margin-right="3"
+     fit-margin-bottom="3"
+     units="mm" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path4005"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path4008"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4075"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4078"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstartu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstartu"
+       style="overflow:visible">
+      <path
+         id="path5038"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#399d2d;fill-rule:evenodd;stroke:#399d2d;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mendm"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mendm"
+       style="overflow:visible">
+      <path
+         id="path5041"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#399d2d;fill-rule:evenodd;stroke:#399d2d;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart4"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart4"
+       style="overflow:visible">
+      <path
+         id="path5771"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#399d2d;fill-rule:evenodd;stroke:#399d2d;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1MendR"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1MendR"
+       style="overflow:visible">
+      <path
+         id="path5774"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#399d2d;fill-rule:evenodd;stroke:#399d2d;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(16.840662,-748.47068)">
+    <rect
+       style="fill:#399d2d;fill-opacity:1;stroke:#399d2d;stroke-width:1.2550019;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3886"
+       width="9.1442356"
+       height="150.101"
+       x="767.63489"
+       y="-169.96603"
+       ry="0"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3888"
+       y="774.30011"
+       x="94.825607"
+       style="font-size:6.875px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       xml:space="preserve"><tspan
+         style="font-size:6.875px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="774.30011"
+         x="94.825607"
+         sodipodi:role="line"
+         id="tspan3890">Dirección General y de Recursos Humanos</tspan></text>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       ry="0"
+       y="-169.96603"
+       x="780.00928"
+       height="150.101"
+       width="9.1442356"
+       id="rect3892"
+       style="fill:#399d2d;fill-opacity:1;stroke:#399d2d;stroke-width:1.2550019;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.875px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       x="94.825607"
+       y="786.6745"
+       id="text3894"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3896"
+         sodipodi:role="line"
+         x="94.825607"
+         y="786.6745"
+         style="font-size:6.875px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;">Organización Interna y Tecnología</tspan></text>
+    <rect
+       style="fill:#399d2d;fill-opacity:1;stroke:#399d2d;stroke-width:1.2550019;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3898"
+       width="9.1442356"
+       height="150.101"
+       x="792.50928"
+       y="-169.96603"
+       ry="0"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3900"
+       y="799.1745"
+       x="94.825607"
+       style="font-size:6.875px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       xml:space="preserve"><tspan
+         style="font-size:6.875px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="799.1745"
+         x="94.825607"
+         sodipodi:role="line"
+         id="tspan3902">Infraestructura y Ambiente</tspan></text>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       ry="0"
+       y="-169.96603"
+       x="805.00928"
+       height="150.101"
+       width="9.1442356"
+       id="rect3904"
+       style="fill:#399d2d;fill-opacity:1;stroke:#399d2d;stroke-width:1.2550019;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.875px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       x="94.825607"
+       y="811.6745"
+       id="text3906"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3908"
+         sodipodi:role="line"
+         x="94.825607"
+         y="811.6745"
+         style="font-size:6.875px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;">Abastecimiento</tspan></text>
+    <rect
+       style="fill:#6dbf62;fill-opacity:1;stroke:#6dbf62;stroke-width:1.02236402;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3910"
+       width="21.235636"
+       height="42.893166"
+       x="19.70997"
+       y="817.37885"
+       ry="0" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text3912"
+       y="28.701761"
+       x="-838.5531"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.875px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         style="font-weight:normal;font-size:6.875px;line-height:100%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;"
+         y="28.701761"
+         x="-838.5531"
+         sodipodi:role="line"
+         id="tspan3914">Marketing</tspan><tspan
+         style="font-weight:normal;font-size:6.875px;line-height:100%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;"
+         y="36.201759"
+         x="-838.5531"
+         sodipodi:role="line"
+         id="tspan3916">y ventas</tspan></text>
+    <rect
+       ry="0"
+       y="817.40308"
+       x="46.13649"
+       height="42.893166"
+       width="21.235636"
+       id="rect3918"
+       style="fill:#6dbf62;fill-opacity:1;stroke:#6dbf62;stroke-width:1.02236402;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.875px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
+       x="-838.57574"
+       y="55.128281"
+       id="text3920"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         id="tspan3922"
+         sodipodi:role="line"
+         x="-838.57574"
+         y="55.128281"
+         style="font-weight:normal;font-size:6.875px;line-height:100%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;">Personal</tspan><tspan
+         id="tspan3924"
+         sodipodi:role="line"
+         x="-838.57574"
+         y="62.628281"
+         style="font-weight:normal;font-size:6.875px;line-height:100%;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;">de contacto</tspan></text>
+    <g
+       id="g3980"
+       transform="translate(5.625,0)"
+       style="">
+      <rect
+         ry="0"
+         y="817.35834"
+         x="66.676262"
+         height="42.982666"
+         width="21.235065"
+         id="rect3930"
+         style="fill:#6dbf62;fill-opacity:1;stroke:#6dbf62;stroke-width:1.0234164;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.39441919px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="-838.57574"
+         y="72.177269"
+         id="text3932"
+         sodipodi:linespacing="100%"
+         transform="matrix(0,-1,1,0,0,0)"><tspan
+           id="tspan3936"
+           sodipodi:role="line"
+           x="-838.57574"
+           y="72.177269"
+           style="font-size:6.875px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Arial">Soporte</tspan><tspan
+           id="tspan3940"
+           sodipodi:role="line"
+           x="-837.53571"
+           y="79.677269"
+           style="font-size:6.875px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Arial">físico y </tspan><tspan
+           id="tspan3942"
+           sodipodi:role="line"
+           x="-838.57574"
+           y="87.177269"
+           style="font-size:6.875px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Arial">habilidades</tspan></text>
+    </g>
+    <rect
+       style="fill:#6dbf62;fill-opacity:1;stroke:#6dbf62;stroke-width:1.02236402;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3944"
+       width="21.235636"
+       height="42.893166"
+       x="98.388565"
+       y="817.40308"
+       ry="0" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text3946"
+       y="111.44622"
+       x="-838.57574"
+       style="font-size:6.875px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       xml:space="preserve"><tspan
+         style="font-size:6.875px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="111.44622"
+         x="-838.57574"
+         sodipodi:role="line"
+         id="tspan3950">Prestación</tspan></text>
+    <rect
+       ry="0"
+       y="817.40308"
+       x="123.76357"
+       height="42.893166"
+       width="21.235636"
+       id="rect3956"
+       style="fill:#bfdaba;fill-opacity:1;stroke:#bfdaba;stroke-width:1.02236402;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.875px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       x="-838.57574"
+       y="136.82123"
+       id="text3958"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         id="tspan3960"
+         sodipodi:role="line"
+         x="-838.57574"
+         y="136.82123"
+         style="font-size:6.875px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;">Cliente</tspan></text>
+    <rect
+       style="fill:#bfdaba;fill-opacity:1;stroke:#bfdaba;stroke-width:1.02236402;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3962"
+       width="21.235636"
+       height="42.893166"
+       x="148.76358"
+       y="817.40308"
+       ry="0" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text3964"
+       y="157.82123"
+       x="-838.57574"
+       style="font-size:6.875px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       xml:space="preserve"><tspan
+         style="font-size:6.875px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="157.82123"
+         x="-838.57574"
+         sodipodi:role="line"
+         id="tspan3966">Otros</tspan><tspan
+         style="font-size:6.875px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="165.32123"
+         x="-838.57574"
+         sodipodi:role="line"
+         id="tspan3997">Clientes</tspan></text>
+    <path
+       style="fill:#a0d699;fill-opacity:1;stroke:none"
+       d="m 169.06812,130.30275 -33.78975,-46.898051 0,93.824231 z"
+       id="path3999"
+       inkscape:connector-curvature="0"
+       transform="translate(37.535564,683.59807)"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.875px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       x="186.24335"
+       y="808.12488"
+       id="text4004"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4008"
+         sodipodi:role="line"
+         x="186.24335"
+         y="808.12488"
+         style="font-size:6.875px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;">Margen</tspan><tspan
+         sodipodi:role="line"
+         x="186.24335"
+         y="815.62488"
+         style="font-size:6.875px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan4012">de</tspan><tspan
+         sodipodi:role="line"
+         x="186.24335"
+         y="823.12488"
+         style="font-size:6.875px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan4014">servicio</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -19,82.839142 -1.3125,1.3125 0,46.187498 1.46875,1.46875"
+       id="path4016"
+       inkscape:connector-curvature="0"
+       transform="translate(37.535564,683.59807)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 17.625273,861.26985 1.230512,1.8573 100.485155,0 1.79668,-1.79668"
+       id="path4022"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.18516,861.42995 1.89616,1.89615 46.86201,0 1.76071,-1.76072"
+       id="path4024"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 173.38124,873.89037 -2.09931,2.09931 -152.436998,0 -1.284749,-2.05937"
+       id="path4026"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4028"
+       y="869.15808"
+       x="70.08017"
+       style="font-size:5.22970915px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       xml:space="preserve"><tspan
+         style="font-size:5.30438137px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="869.15808"
+         x="70.08017"
+         sodipodi:role="line"
+         id="tspan4030">Controlables</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.22970915px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       x="148.63501"
+       y="869.15808"
+       id="text4032"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4034"
+         sodipodi:role="line"
+         x="148.63501"
+         y="869.15808"
+         style="font-size:5.30438137px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;">No controlables</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.22970915px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       x="95.813652"
+       y="881.61847"
+       id="text4036"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4038"
+         sodipodi:role="line"
+         x="95.813652"
+         y="881.61847"
+         style="font-size:5.30438137px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;">Factores primarios</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text4040"
+       y="789.51971"
+       x="4.527523"
+       style="font-size:5.22970915px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;"
+       xml:space="preserve"><tspan
+         style="font-size:5.30438137px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="789.51971"
+         x="4.527523"
+         sodipodi:role="line"
+         id="tspan4042">Factores</tspan><tspan
+         style="font-size:5.30438137px;font-weight:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Arial;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;"
+         y="794.8241"
+         x="4.527523"
+         sodipodi:role="line"
+         id="tspan4044">de apoyo</tspan></text>
+  </g>
+</svg>
